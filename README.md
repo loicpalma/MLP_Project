@@ -1,6 +1,6 @@
 # **Multi-Layers Perceptron - Project**
 
-Work done for the Spring 2020 class of Machine Learning with Python at ESA Master's degree. The instructor was Abdoul Aziz Ndoye.
+Work done for the Spring 2020 class of Neural Networks at ESA Master's degree. The instructor was Abdoul Aziz Ndoye.
 
 
 # Instructions
